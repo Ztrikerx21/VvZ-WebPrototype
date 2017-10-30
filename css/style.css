@@ -1,0 +1,40 @@
+#cardHolder{
+  border: solid black 2px;
+}
+#decks{
+  border: solid black 2px;
+}
+#tempCard{
+  background-color: #c0c0c0;
+
+}
+#trashbin{
+  border: solid black 1px;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  display:inline-block;
+
+  background-image: url("../images/trashbin.jpg");
+}
+.card{
+  border: solid black 1px;
+  margin: 10px;
+  display:inline-block;
+}
+.blessing{
+  border: solid black 1px;
+  width: 100px;
+  height: 180px;
+  margin: 10px;
+  display:inline-block;
+  text-align: center;
+}
+.curse{
+  border: solid black 1px;
+  width: 100px;
+  height: 180px;
+  margin: 10px;
+  display:inline-block;
+  text-align: center;
+}

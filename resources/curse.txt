@@ -1,0 +1,21 @@
+ID	Name	Quick	Target	Description
+1001	Zombie Ambush	Yes	Viking	You die by the attack of multiple zombies. Pay 7 PP to avoid.
+1002	Waste Pool	Yes	Viking	Slowness(4): Reduce your movement roll by 4 for the next 2 movement phases.
+1003	Concussion	Yes	Viking	Paralysis: This viking cannot move during its next movement phase. 
+1004	Nuclear Shockwave	Yes	Zombie	Every zombie gains Quickness(3) for their next movement phase.
+1005	Turbine Wind	Yes	Viking	Lose all your cards in your inventory.
+1006	Disease 3	Yes	Viking	Sickness: This viking cannot draw cards for 3 turns.
+1007	Broken Leg	Yes	Viking	Attention Seeker(2): The area in which this viking can be killed by a zombie extends to range(2).
+1008	Fatigue 1	Yes	Viking	"Threatened(4): You cannot roll dice for this viking, instead, your total movement is 4 during your next 3 movement phases."
+1009	Crawler Ambush	Yes	Viking	You will die by the attack of multiple zombies unless you discard any 2 cards.
+1010	Heavy Blizzard	Yes	Both	Everyone receives Slowness(4) for their next movement phase.
+1011	Painful Sacrifice	Yes	Viking	Discard all cards in your inventory or your viking dies (1 minimum)
+1012	Peace Message	No	Both	All characters gain Fear untill the end of the next zombie phase.
+1013	Harming Fists 1	Yes	Viking	Your Viking loses 3 PP.
+1014	Harming Fists 2	Yes	Viking	Your Viking loses 5 PP.
+1015	Harming Enemies 1	Yes	Viking	Your Viking loses 1 stock.
+1016	Open Circuit 1	Yes	Viking	Disabled(Passive): Your Viking cannot use any passive ability for 3 turns.
+1017	Open Circuit 2	Yes	Viking	Disabled(Active): Your Viking cannot use any active ability for 3 turns.
+1018	Vitamin Z	Yes	Zombie	Agression(1): All Zombie's range increases by 1 for their 3 next phases.
+1019	Tankard of Greed	Yes	Both	"Pick up one Blessing. All zombies recieve 3 RP.
+1020	Brain Bug	Yes	Zombie	Flexible: All zombies can pass through other zombies for 3 Round.

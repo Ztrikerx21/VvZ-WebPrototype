@@ -1,0 +1,23 @@
+ID	Name	Quick	Target	Description
+1	Petrification Charm	Yes	Zombie	Target zombie in range(5) receives Petrification.
+2	Radiation Extractors	Yes	Zombie	All zombies receive Wounded untill the end of the next Zombie phase.
+3	Segurity Protocol.	Yes	Zombie	All zombies receive Slowness(2) untill the end of the next Zombie phase.
+4	Emergency Flair	No	Zombie	Fear: All zombies in range(5) receive Fear untill the end of the next Zombie phase.
+5	Anti Fire Sprinkler Activation.	Yes	Zombie	Disabled(pasive). Zombies lose their pasive abilities untill the end of the next zombie phase.
+6	Password Journal	No	Viking	Disable any conditional gate in range(3).
+7	Cry for Valhalla 	No	Viking	The next active ability you use has a PP const of 0.
+8	Nordic Chant	Yes	Viking	All vikings gain Quickness(2) for their next movement phase.
+9	Flashlight	No	Viking	Vikings dont lose stocks to weakling zombie attaks untill the start of the next viking phase.
+10	Lightboots	No	Viking	Quickness(5): Add +5 to your total movement on your next movement phase.
+11	Invisibility Cloack	No	Viking	Invisible(): Cannot be attacked for 3 cycles.
+12	Tomahawk	No	Zombie	Paralyzes a zombie in range(7) for 2 cycles.
+13	Map of Retreat	No	Viking	Connoisseur(3): This viking can change its direction to any other direction available.
+14	Heavy Armor	No	Viking	Blocker: Zombies cannot kill nor pass through this viking. 2 Cycles.
+15	Geiger Counter	Yes	Viking	Sneaky: Your Viking is not killed when Zombies land next to it, only when they land on the same square. 4 Cycles.
+16	Elixir	No	Viking	Removes negative status efx from any of your Characters.
+17	Red Bool	No	Viking	Flying: For 2 cycles, your Viking can't be attacked by normal attacks and its movement does not count as Stepping.
+18	Helping Hands 1	Yes	Viking	Your Viking gains +3 PP.
+19	Helping Hands 2	Yes	Viking	Your Viking gains +5 PP.
+20	Helping Friends 1	Yes	Viking	This Viking gains +1 stock.
+21	Helping Friends 2	No	Viking	This Viking gains +1 stock.
+22	Helping Angels 1	Yes	Viking	Heaven Protection(2). your Viking cannot die.
